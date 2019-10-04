@@ -3,7 +3,7 @@
 * [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
 <!-- default file list end -->
 
-# How to Invoke the Data Inspector Asynchronously When the Dashoard is Loaded
+# How to Invoke the Data Inspector Asynchronously When the Dashboard is Loaded
 
 This example demonstrates how to call asynchronous methods that retrieves data when the dashboard is loaded.
 
