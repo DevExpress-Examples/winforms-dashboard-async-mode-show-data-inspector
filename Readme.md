@@ -23,6 +23,7 @@ API in this example:
 ## Documentation
 
 * [Asynchronous Mode](https://docs.devexpress.com/Dashboard/401305)
+* [Data Inspector](https://docs.devexpress.com/Dashboard/401194)
 
 ## More Examples 
 
