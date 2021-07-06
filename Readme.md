@@ -13,7 +13,7 @@ The Dashboard Viewer loads a dashboard and asynchronously invokes the [Data Insp
 
 
 
-API in this example:
+## API
 
 * [DashboardViewer.AsyncMode](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.AsyncMode). Switches to the asynchronous mode. The property is set in the **InitializeComponent** method.
 * [DashboardViewer.ShowDataInspectorAsync](https://docs.devexpress.com/Dashboard/DevExpress.DashboardWin.DashboardViewer.ShowDataInspectorAsync(System.String)) method. Invokes the Data Inspector window for the specified dashboard item, asynchronously.
